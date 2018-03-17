@@ -4,20 +4,20 @@ There are also migrations to create proper database.
 <b>Endpoints:</b>
 
 // registration - provides an token
-POST register/
+POST register/ </br>
 
 // logging in
-POST login/
+POST login/  </br>
 
 // sets methods
-POST sets/
-GET sets/
-GET sets/{id}/
-PUT sets/{id}/
-DELETE sets/{id}/
+POST sets/  </br>
+GET sets/ </br>
+GET sets/{id}/ </br>
+PUT sets/{id}/  </br>
+DELETE sets/{id}/ </br>
 
 // words methods
-POST words/
-GET words/{id}/
-PUT words/{id}/
-DELETE words/{id}/
+POST words/ </br>
+GET words/{id}/ </br>
+PUT words/{id}/ </br>
+DELETE words/{id}/ </br>
