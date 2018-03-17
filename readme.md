@@ -3,13 +3,13 @@ There are also migrations to create proper database.
 
 <b>Endpoints:</b>
 
-// registration - provides an token
+// registration - provides a token </br>
 POST register/ </br>
 
-// logging in
+// logging in </br>
 POST login/  </br>
 
-// sets methods
+// sets methods </br>
 POST sets/  </br>
 GET sets/ </br>
 GET sets/{id}/ </br>
