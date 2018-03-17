@@ -16,7 +16,7 @@ GET sets/{id}/ </br>
 PUT sets/{id}/  </br>
 DELETE sets/{id}/ </br>
 
-// words methods
+// words methods </br>
 POST words/ </br>
 GET words/{id}/ </br>
 PUT words/{id}/ </br>
